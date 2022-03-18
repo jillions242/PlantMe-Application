@@ -24,7 +24,7 @@
 
 ---
 4. ทำการ Run Application ทำได้โดย
-ใช้ command ```Flutter run``` หรือ debug ในการrunแอปพลิเคชันกดปุ่ม ```F5```
+ใช้ command ```Flutter run``` หรือ debug ในการรันแอปพลิเคชันกดปุ่ม ```F5```
 
 ---
 
