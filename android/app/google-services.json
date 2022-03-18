@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823018357506",
+    "project_id": "databaseforplantme-f347b",
+    "storage_bucket": "databaseforplantme-f347b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823018357506:android:349863d79688cd20ac781b",
+        "android_client_info": {
+          "package_name": "com.example.plantme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823018357506-v6hbs1b7cd3deeimvboc9baqa3is6rcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7FAyfk9-miFjlsBQGqkeGJqgUbTbJ--o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823018357506-v6hbs1b7cd3deeimvboc9baqa3is6rcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
